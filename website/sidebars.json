@@ -9,9 +9,9 @@
         "API/combineReducers",
         "API/withContext"
     ],
-    "F&Q": [
-        "F&Q/Performance",
-        "F&Q/Useage"
+    "FAQ": [
+        "FAQ/Performance",
+        "FAQ/Useage"
     ]
   },
   "docs-other": {
