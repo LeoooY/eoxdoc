@@ -77,7 +77,7 @@ const Child = ({ dispatch, counta }) => {
         </div>
     )
 }
-export default withContext(Child,Contex,{
+export default withContext(Child,Context,{
     dispatch: ctx => ctx.dispatch,
     counta: ctx => ctx.state.a,
 })
