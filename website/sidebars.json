@@ -1,8 +1,18 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "Getting Started": [
+        "GettingStarted/Installation",
+        "GettingStarted/QuickStart"
+    ],
+    "API": [
+        "API/createProvider",
+        "API/combineReducers",
+        "API/withContext"
+    ],
+    "F&Q": [
+        "F&Q/Performance",
+        "F&Q/Useage"
+    ]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
